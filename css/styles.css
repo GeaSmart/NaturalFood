@@ -147,4 +147,32 @@ input[type="submit"]{
 /* FOOTER */
 footer{
     height: 30vh;
+    background-color: black;
+}
+.menu-footer{
+    display: block;
+}
+.title-footer{
+    float: left;
+    margin-left: 35px;
+    font-size: 20px;
+}
+.social{    
+    float: right;
+    font-size: 50px;
+    margin-right: 50px;
+    padding-top: 50px;
+}
+.social i{
+    margin-right: 10px;
+    color: #e8ff3c;
+}
+.trademark{
+    color:#fff;
+    font-size: 20px;
+    display: block;
+    float: left;
+    width: 100%;
+    text-align: center;
+    margin-top: 60px;
 }
